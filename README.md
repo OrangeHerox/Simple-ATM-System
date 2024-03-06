@@ -10,4 +10,4 @@ need the following:
 Note : 
 1. Execute once the sql script on cmd or mysql workbench
 2. On the database class change the 
-mysql account credentials to your owners
+mysql account credentials to your own
